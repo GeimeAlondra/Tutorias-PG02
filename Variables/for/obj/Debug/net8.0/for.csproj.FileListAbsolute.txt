@@ -1,0 +1,15 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\bin\Debug\net8.0\for.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\bin\Debug\net8.0\for.deps.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\bin\Debug\net8.0\for.runtimeconfig.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\bin\Debug\net8.0\for.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\bin\Debug\net8.0\for.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.sourcelink.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\refint\for.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\for\obj\Debug\net8.0\ref\for.dll

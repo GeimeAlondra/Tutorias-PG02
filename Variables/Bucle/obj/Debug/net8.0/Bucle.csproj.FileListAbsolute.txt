@@ -1,0 +1,15 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\bin\Debug\net8.0\Bucle.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\bin\Debug\net8.0\Bucle.deps.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\bin\Debug\net8.0\Bucle.runtimeconfig.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\bin\Debug\net8.0\Bucle.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\bin\Debug\net8.0\Bucle.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfoInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfo.cs
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.sourcelink.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\refint\Bucle.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\Bucle.genruntimeconfig.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Bucle\obj\Debug\net8.0\ref\Bucle.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\bin\Debug\net8.0\Intercambio.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\bin\Debug\net8.0\Intercambio.deps.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\bin\Debug\net8.0\Intercambio.runtimeconfig.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\bin\Debug\net8.0\Intercambio.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\bin\Debug\net8.0\Intercambio.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfoInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfo.cs
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.sourcelink.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\refint\Intercambio.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\Intercambio.genruntimeconfig.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\Tutorias-PG02\Variables\Intercambio\obj\Debug\net8.0\ref\Intercambio.dll
